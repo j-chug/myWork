@@ -1,0 +1,152 @@
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\appsettings.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\FpApi.exe
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\FpApi.deps.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\FpApi.runtimeconfig.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\FpApi.runtimeconfig.dev.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\ref\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\FpApi.pdb
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.csprojAssemblyReference.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.AssemblyInfo.cs
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.Manifest.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.xml
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\scopedcss\bundle\FpApi.styles.css
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.RazorTargetAssemblyInfo.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.csproj.CopyComplete
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\ref\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.pdb
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\FpApi\obj\Debug\net5.0\FpApi.genruntimeconfig.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen ny\fpapi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.exe
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.deps.json
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.runtimeconfig.json
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.runtimeconfig.dev.json
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\ref\FpApi.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.pdb
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.csproj.AssemblyReference.cache
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.AssemblyInfoInputs.cache
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.AssemblyInfo.cs
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.csproj.CoreCompileInputs.cache
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.Manifest.cache
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.xml
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\scopedcss\bundle\FpApi.styles.css
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.RazorTargetAssemblyInfo.cache
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.csproj.CopyComplete
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\ref\FpApi.dll
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.pdb
+C:\Users\Johan\Desktop\Eksamen Web3\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.genruntimeconfig.cache
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\appsettings.json
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\appsettings.Development.json
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\FpApi.exe
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\FpApi.deps.json
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\FpApi.runtimeconfig.json
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\FpApi.runtimeconfig.dev.json
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\FpApi.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\ref\FpApi.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\FpApi.pdb
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\DnsClient.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\SharpCompress.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.csprojAssemblyReference.cache
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.AssemblyInfoInputs.cache
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.AssemblyInfo.cs
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.csproj.CoreCompileInputs.cache
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.Manifest.cache
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.xml
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\scopedcss\bundle\FpApi.styles.css
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.RazorTargetAssemblyInfo.cache
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.csproj.CopyComplete
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\ref\FpApi.dll
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.pdb
+E:\Skole\Webutvikling\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.genruntimeconfig.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.csprojAssemblyReference.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.AssemblyInfo.cs
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\ref\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\fpapi\obj\Debug\net5.0\FpApi.pdb
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\appsettings.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.exe
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.deps.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.runtimeconfig.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.runtimeconfig.dev.json
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\ref\FpApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\FpApi.pdb
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.Manifest.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\obj\Debug\net5.0\staticwebassets\FpApi.StaticWebAssets.xml
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\obj\Debug\net5.0\scopedcss\bundle\FpApi.styles.css
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.RazorTargetAssemblyInfo.cache
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.csproj.CopyComplete
+C:\Users\johan\Desktop\lokal mappe SKOLE\Webutvikling 3\eksamen\WebutviklingEksamen\FpApi\obj\Debug\net5.0\FpApi.genruntimeconfig.cache

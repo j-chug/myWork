@@ -1,0 +1,67 @@
+/* IMPORTS */
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #302c2b;
+}
+
+html {
+  background-color: #fff;
+}
+img {
+  height: 200px;
+  width: 160px;
+}
+
+
+/* NAVBAR */
+.navbar-style {
+  background-color: #0A1612;
+}
+
+#logo-f {
+  font-size: 3.2rem;
+  color: #0067ee;
+  font-family: 'Yellowtail';
+  text-shadow: 2px 2px 5px;
+}
+#logo-p {
+  font-size: 3rem;
+  font-family: 'Yellowtail';
+  color: #f9fbfd;
+  text-shadow: 2px 2px 5px;
+}
+
+.navlink-style {
+  color: #f7ce3e !important;
+  font-size: 1.2rem;
+  padding-right: 2rem !important;
+}
+
+.navlink-style:hover {
+  color: #f9fbfd !important;
+}
+
+.navbar-toggler {
+  color: #f9fbfd !important;
+}
+/* NAVBAR ENDS */
+
+/* Predictions */
+.predictionInputfields{
+  width: 200px;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

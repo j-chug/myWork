@@ -1,0 +1,11 @@
+.login {
+    max-width: 600px;
+    margin: auto;
+    padding: 4rem;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.login label {
+    color: #f7ce3e !important;
+}
